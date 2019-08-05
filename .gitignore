@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Scrapy stuff:
+.scrapy
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# MAC OS
+
+.DS_Store
+
+# Files
+
+.csv
+.json
